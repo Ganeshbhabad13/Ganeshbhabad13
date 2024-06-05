@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Bhabad</h1>
 <h3 align="center">Noc Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.stack.imgur.com/9jhu5.gif">
+<img align="right" alt="coding" width="400" src="https://i.sstatic.net/9jhu5.gif">
 
 
 
